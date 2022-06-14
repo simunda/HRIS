@@ -1,0 +1,5 @@
+{
+    "require": {
+        "open-admin-org/open-admin": "^1.0"
+    }
+}
